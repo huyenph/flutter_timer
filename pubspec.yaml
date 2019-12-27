@@ -27,6 +27,7 @@ dependencies:
   meta: ^1.1.8
   rxdart: ^0.23.1
   wave: ^0.0.8
+  equatable: ^1.0.1
 
 dev_dependencies:
   flutter_test:
